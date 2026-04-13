@@ -1,6 +1,6 @@
 
-## 📚 O que é o Conecta Universidades?
-O **Conecta Universidades** é uma plataforma que busca conectar estudantes universitários através do compartilhamento de conhecimento e ideias, criando novos laços e abrindo portas para desenvolvimento de networks. 
+## 📚 O que é o Sinapse?
+O **Sinapse** é uma plataforma que busca conectar estudantes universitários através do compartilhamento de conhecimento e ideias, criando novos laços e abrindo portas para desenvolvimento de networks. 
 ## 🤔 Como surgiu a iniciativa?
 A iniciativa surge das mazelas nossa própria vivência universitária: sentimento de baixo engajamento nas atividades acadêmicas, desvalorização das monitorias, das interações humanas e falta de incentivo para concretizar ideias inovadoras. Resolvemos mudar tudo isso. Agora.
 ## 🎯 Nossa proposta
